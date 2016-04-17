@@ -1,7 +1,7 @@
 name: Jay Kennedy
 favicon: null
-layout_spectrum: 0.29463
-typography_spectrum: 0.8012345288880169
+layout_spectrum: 0.00097
+typography_spectrum: 0.59445
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#a49a90'
-    - '#c2baaf'
-    - '#76685d'
-    - '#463c33'
-    - '#171008'
+    - '#f6f1ee'
+    - '#22231d'
+    - '#9bbee4'
+    - '#a0857e'
+    - '#6c6b71'
   brandStrength: 1
-  lightness: 0.8125
-  saturation: 0.875
-  rhythmicContrast: 0.25
+  lightness: 0
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
